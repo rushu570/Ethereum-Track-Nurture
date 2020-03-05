@@ -9,11 +9,11 @@ To feed today's global population, we currently need a farm land equal to the si
 
 'Nurture' is a decentralized urban farming platform where individuals could lease empty spaces like backyards or basements to produce food using urban farming methods. Our platform incentivizes urban population into farming by providing them a decentralized market place to sell their fresh produce directly to consumers in their neighborhoods. We are focusing on impact track and our product meets the following UN Sustainable Development Goals:
 
-End Hunger
-Sustainable cities and communities
-Reduction in forest loss and land degradation
-Climate Action
-Sustainable production pattern
+1.End Hunger
+2.Sustainable cities and communities
+3.Reduction in forest loss and land degradation
+4.Climate Action
+5.Sustainable production pattern
 
 We deployed a smart contract on rinkeby ethereum network which stores the ipfs hash of the document hosted on a decentralized Interplanetary FileSystem.
 We do this because hosting a document in general on a blockchain is an expensive affair. We can address large amount of data with ipfs and place the immutable, permanent ipfs links into a blockchain transaction.
